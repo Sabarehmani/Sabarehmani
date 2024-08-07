@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saba rehmani</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=I'm+👩‍💼!A+Passionate+Web+developer+from+pakistan!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000"
