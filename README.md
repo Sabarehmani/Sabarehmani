@@ -6,7 +6,7 @@
   />
 </p>
 
-<img align="center" src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966" alt="animated picture" width="700" height="400">
+<img align="center" src="" alt="animated picture" width="700" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarehmani&label=Profile%20views&color=0e75b6&style=flat" alt="sabarehmani" /> </p>
 
