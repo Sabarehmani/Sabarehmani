@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saba rehmani</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?lines=I'm+👩‍💼!A+Passionate+Web+developer+from+pakistan!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=10000"
+    src="https://readme-typing-svg.demolab.com/?lines=I'm+👩‍💼!A+Passionate+Webdeveloper+from+pakistan!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=10000"
     alt="Example Usage - README Typing SVG"
   />
 </p>
