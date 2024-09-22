@@ -16,6 +16,10 @@
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at https://github.com/Sabarehmani
 - 📫 How to reach me sabarehmani287@gmail.com
+- ⚡ Fun fact I think i am funnny , naughty and talkative
+
+Connect with me:
+Sabarehmani Sabarazzaq rehmanigirl.24
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
