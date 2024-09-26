@@ -17,9 +17,10 @@
 - 👨‍💻 All of my projects are available at https://github.com/Sabarehmani
 - 📫 How to reach me sabarehmani287@gmail.com
 - ⚡ Fun fact I think i am funnny , naughty and talkative
+- 📫 My LinKedln https://www.linkedin.com/in/saba-razzaq-59ba45290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
-Connect with me:
-Sabarehmani Sabarazzaq rehmanigirl.24
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
