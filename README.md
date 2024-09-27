@@ -6,7 +6,7 @@
   />
 </p>
 
-<img align="center" src="https://gifer.com/embed/bJk" alt="animated picture" width="700" height="400">
+<img align="center" src="" alt="animated picture" width="700" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarehmani&label=Profile%20views&color=0e75b6&style=flat" alt="sabarehmani" /> </p>
 
