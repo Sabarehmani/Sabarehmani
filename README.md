@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at :
   https://github.com/Sabarehmani
-- 📫 How to reach me sabarehmani287@gmail.com
+- 📫 How to reach me : sabarehmani287@gmail.com
 - ⚡ Fun fact I think i am funnny , naughty, hard-working and talkative etc...
 - 📫 My LinKedln https://w-workingdin.com/in/saba-razzaq-59ba45290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
