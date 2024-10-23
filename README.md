@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarehmani" alt="sabarehmani" /></a> </p>
 
-- 🔭 I’m currently working on **Backed**
+- 🔭 I’m currently working on **Backend**
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at :
   https://github.com/Sabarehmani
